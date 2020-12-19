@@ -110,14 +110,17 @@ html{
 }
 
 /* Home Section Styling */
-.home{
+.home{   
     display: flex;
     /* background-color: #000; */
-    background: url("images/hello11.jpeg" );
+    background: url("images/bg.jpg" );
+    background-size: 1600px;
+    background-position: -60%;
+    background-position-x: 190px;
+    background-position-y: -160px;
     height: 100vh;
     color: #fff;
     min-height: 500px;
-    background-repeat: no-repeat;
 }
 
 .home .max-width{
