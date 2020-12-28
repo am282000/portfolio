@@ -9,18 +9,21 @@ This website is made with the use of following technology :
 - jQuery
 - Google Analytics
 
+
 ### Front end project
 I hosted this website on github . Here you can check my portfolio [Click Here](https://am282000.github.io/portfolio/)
 
 Editor Used 
 ## Microsoft Virtual Studio Code
 
+Have a look . Isn't it amazing ?
+![Image](src)
 
-[Click Here](https://am282000.github.io/portfolio/) and ![Image](src)
 
 For more details 
 
-Visit to my portfolio [Click Here](https://am282000.github.io/portfolio/)
+Visit my portfolio [Click Here](https://am282000.github.io/portfolio/)
+
 
 ### Support or Contact
 
