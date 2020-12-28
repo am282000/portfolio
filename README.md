@@ -1,6 +1,6 @@
 ## Welcome to my Portfolio
 
-This is my personal portfolio website . It simply depicts all about me who am I ,my qualification, my skills & my projects .
+This is my personal portfolio website . It simply depicts all about me who I am, my qualification, my skills, training and certifications & my projects .
 
 This website is made with the use of following technology :
 - HTML
@@ -17,6 +17,7 @@ Editor Used
 ## Microsoft Virtual Studio Code
 
 Have a look . Isn't it amazing ?
+
 ![Image](src)
 
 
