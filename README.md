@@ -29,3 +29,6 @@ Visit my portfolio [Click Here](https://am282000.github.io/portfolio/)
 ### Support or Contact
 
 Having trouble with Pages? Contact me at ashishmadan12@gmail.com .
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d3a25999-df83-460e-afcf-174c1864e456/deploy-status)](https://app.netlify.com/sites/adoring-torvalds-ff1fe8/deploys)
