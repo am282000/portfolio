@@ -8,6 +8,7 @@
     text-decoration: none;
     font-family: 'Poppins', sans-serif;
     font-family: 'Ubuntu', sans-serif;
+    overflow: auto;
 }
 
 html{
@@ -814,11 +815,10 @@ section{
 footer{
     font-family: 'Poppins',sans-serif;
     background: #000;
-    padding: 20px 21px;
+    padding: 20px 18px;
     color: #fff;
     text-align: center;
     width:100%;
-    overflow:none;
 }
 footer span a{
     color: crimson;
