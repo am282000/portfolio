@@ -1181,6 +1181,9 @@ footer span a:hover{
     .socialmedia .social-icons-contact li a img:hover{
         box-shadow: 0px 0px 5px 2px #1185d8;
     }
+    footer{
+        width:100%;
+    }
 }
 
 @media(max-width:300px){
