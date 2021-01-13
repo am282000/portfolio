@@ -44,6 +44,7 @@
     </nav>
 
     <!-- Home section -->
+    <div id="particles-js">
     <section class="home" id="home">
         <div class="max-width">
             <div class="home-content">
@@ -54,7 +55,16 @@
             </div>
         </div>
     </section>
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+    <script src="particles.js"></script>
+    <script>
+        particlesJS.load('particles-js', 'particles.json', function() {
+        console.log('callback - particles.js loaded');
+      });
+      </script>
+    </div>
     <!-- about section start -->
+   
     <section class="about" id="about">
         <div class="max-width">
             <h2 class="title">About me</h2>
@@ -77,6 +87,7 @@
     </section>
 
     <!--skill section start  -->
+    
     <section class="skills" id="skills">
         <div class="max-width">
             <h2 class="title">My Skills</h2>
@@ -161,6 +172,7 @@
 
 
     <!--Trainings & Certification-->
+   
     <section id="exp">
 
         <div class="section-heading">
@@ -277,7 +289,6 @@
         </div>
 
     </section>
-
 
     <!-- project section start -->
     <section id="projects">
