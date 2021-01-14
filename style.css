@@ -121,8 +121,8 @@ html{
 /* Home Section Styling */
 .home{   
     display: flex;
-    /* background-color: #000; */
-    background: url("images/bg.jpg" );
+    background-color: #000; 
+     /* background: url("images/bg.jpg" ); */
     background-size: 1600px;
     background-position: -60%;
     background-position-x: 190px;
