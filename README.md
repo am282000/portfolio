@@ -11,7 +11,7 @@ This website is made with the use of following technology :
 
 
 ### Front end project
-I hosted this website on github . Here you can check my portfolio [Click Here](https://am282000.github.io/portfolio/)
+I hosted this website on github . Here you can check my portfolio [Click Here](https://ashish-madaan.netlify.app/)
 
 Editor Used 
 ## Microsoft Virtual Studio Code
@@ -23,7 +23,7 @@ Have a look . Isn't it amazing ?
 
 For more details 
 
-Visit my portfolio [Click Here](https://am282000.github.io/portfolio/)
+Visit my portfolio [Click Here](https://ashish-madaan.netlify.app/)
 
 
 ### Support or Contact
